@@ -1,11 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
 <br>
-- 👋 Hi, I’m Saad Ahmad.<br>
-- 👀 I’m interested in Web Development.<br>
-- 🤖 I am a Next.js / MERN stack developer.<br>
-- 🌱 I have expertise in JavaScript & Typescript.<br>
-- 📨 Reach me at : saadahmad6830879@gmail.com<br>
 
+- 👋 Hi, I’m **Saad Ahmad**, a Full-Stack Developer specializing in scalable SaaS and AI-powered applications.  
+- 🚀 I build end-to-end web systems using **Next.js, NestJS, TypeScript, and Python**.  
+- 🧠 Focused on **LLM integrations, agent workflows, and AI-driven automation systems**.  
+- ⚙️ Experienced in designing **real-time, high-performance backend architectures** with modern databases and APIs.  
+- 🌐 Passionate about building **production-grade, scalable products** (SaaS, CRM, and automation systems).  
+- 📧 Reach me at: **saadahmad6830879@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadahmad879/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadahmad6830879@gmail.com) 
